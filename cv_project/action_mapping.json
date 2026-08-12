@@ -1,0 +1,8 @@
+{
+    "Back":  "StickL:0:-1:{n}",
+    "Down":  "ZL{n}",
+    "Left":  "StickL:-1:0:{n}",
+    "Right": "StickL:1:0:{n}",
+    "Front": "StickL:0:1:{n}",
+    "Jump":  "A{n}"
+}

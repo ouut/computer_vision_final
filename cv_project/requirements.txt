@@ -1,0 +1,5 @@
+# MotionPlay — Gesture-to-Game Controller
+# Core dependencies
+numpy
+pandas
+torch
